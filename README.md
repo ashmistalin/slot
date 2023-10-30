@@ -161,7 +161,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![image](https://github.com/selvasachein/slot/assets/103128410/847bc942-b5c7-4b24-a31b-36706ade6103)
+![Screenshot 2023-10-19 094618](https://github.com/selvasachein/slot/assets/103128410/8d659714-24d7-496d-93a0-6839cb4dc7a0)
 
 
 ## RESULT
